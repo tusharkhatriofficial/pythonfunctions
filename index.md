@@ -37,7 +37,7 @@ To call a function, use the function name followed by parenthesis
 
 Information can be passed into  functions as arguments. Arguments are specified after the function name inside the parenthesis. You can add as many arguments as you want, just seperate them with a comma.
 
-###Example
+### Example
 
 ```Python
   def sum(num1, num2):
